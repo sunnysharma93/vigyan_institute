@@ -1,0 +1,6 @@
+com/vigyaninstitute/controller/NoteController.class
+com/vigyaninstitute/config/WebConfig.class
+com/vigyaninstitute/dto/UploadResponse.class
+com/vigyaninstitute/service/NoteService.class
+com/vigyaninstitute/dto/NoteFile.class
+com/vigyaninstitute/NotesApiApplication.class
